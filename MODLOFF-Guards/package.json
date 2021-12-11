@@ -1,13 +1,13 @@
 {
-  "name": "root",
+  "name": "modloff",
   "version": "1.0.0",
-  "description": "root guard discord botu.",
-  "main": "root.js",
+  "description": "modloff guard discord botu.",
+  "main": "modloff.js",
   "scripts": {
     "test": "echo 'Error: no test specified' && exit 1",
-    "start": "node root.js"
+    "start": "node modloff.js"
   },
-  "author": "root",
+  "author": "modloff",
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.6.1",
