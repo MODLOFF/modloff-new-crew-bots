@@ -1,12 +1,12 @@
 {
-  "name": "root-backup-bot",
+  "name": "modloff-backup-bot",
   "version": "0.0.1",
-  "description": "root-backup",
-  "main": "root.js",
+  "description": "modloff-backup",
+  "main": "modloff.js",
   "scripts": {
-    "test": "node root.js"
+    "test": "node modloff.js"
   },
-  "author": "root-root",
+  "author": "modloff-modloff",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^12.5.3",
