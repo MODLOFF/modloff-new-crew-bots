@@ -1,10 +1,10 @@
 {
-  "name": "xpeaw-botxd",
+  "name": "modloff-botxd",
   "version": "1.0.0",
-  "description": "xpeaw bot",
-  "main": "passenger.js",
+  "description": "modloff bot",
+  "main": "modloff.js",
   "scripts": {
-    "test": "node passenger.js"
+    "test": "node modloff.js"
   },
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
     "ForSpeed",
     "Serendiask"
   ],
-  "author": "Xpeaw",
+  "author": "modloff",
   "license": "MIT",
   "dependencies": {
     "discord-buttons": "^2.4.1",
