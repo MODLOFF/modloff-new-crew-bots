@@ -1,17 +1,17 @@
 {
-  "Prefix":"!",
-  "Owner":"859464687401959445",
-  "Token":"OTA4NDY5NzA5OTYyMzQ2NTY3.YY2MWQ.4q3kzGM4W7VX1QNuHBMvGRdWo60",
-  "MongoUrl":"mongodb+srv://passengerxd31:passengerxd31@cluster0.hguhf.mongodb.net/weisbackyp2?retryWrites=true&w=majority",
-  "backupkanal":"915673054418448445",
-  "guildID":"915324694503243847",
-  "BotSesKanal":"915324695568609282",
+  "Prefix":".",
+  "Owner":"",
+  "Token":"",
+  "MongoUrl":"",
+  "backupkanal":"",
+  "guildID":"",
+  "BotSesKanal":"",
   "BotDurum":"Passenger ❤️ MODLOFF",
   "BotFooter":"Passenger ❤️ MODLOFF",
   "BotStatus":"online",
 
-  "green":"<:OnaylKullanc:915640661867397120>", 
-  "greenid":"915640661867397120"
+  "green":"", 
+  "greenid":""
 
 
   }
