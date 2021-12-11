@@ -1,0 +1,20 @@
+{
+    "bot": {
+        "token": "OTE2OTUwNzc5ODI5NTcxNjA2.Yaxm9g.2v-SNfj0KNpTWnzy6iE6tOWBSik",
+        "BotOwner": ["619126609756160000"]
+    },
+
+    "roles": {
+        "CekilisKatılımcı": "916911580996853761",
+        "EtkinlikKatılımcı": "916911668062199840"
+    },
+
+    "emojiler": {
+"nitro":"<a:botnitro:916759827668148264>",
+"spotify":"<:botspotify:916759827353600001>",
+"netflix":"<:botnetflix:916759827353591809>",
+"exxen":"<:botexxen:916759827584274452>",
+"blutv":"<:botblutv:916759827592650853>"
+
+    }
+}

@@ -1,0 +1,51 @@
+{
+    
+    "Family_Role": "915324694876520470",
+    "Booster_Role": "915599948324683807",
+     
+      
+   "Meeting": {
+    "Role": ""
+   },
+   
+   "Register": {
+    "Woman": "",
+    "Man": "",
+    "Unregistered": ["915324694838784026"]
+   },
+   
+   "Yasaklı_Tag": {
+    "Role": "915324694503243851"
+   },
+   
+   "Chat_Mute": {
+    "Role": "915324694503243853"
+   },
+   
+   
+   "Jail": {
+    "Role": "915324694503243854",
+    "Reklam": "915324694503243854",
+    "Karantina": "915324694503243854"
+    },
+   
+   "Suspect": {
+    "Role": "915324694503243854"
+   },
+   
+   "Month": {
+    "OneMonth": "",
+    "ThreeMonth": "",
+    "SixMonth": "",
+    "NineMonth": "",
+    "OneYear": ""
+   },
+   
+
+   "Warn": {
+    "Role": "",
+    "Role2": "",
+    "Role3": ""
+   }
+   }
+   

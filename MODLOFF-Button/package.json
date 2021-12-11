@@ -1,0 +1,25 @@
+{
+  "name": "xpeaw-botxd",
+  "version": "1.0.0",
+  "description": "xpeaw bot",
+  "main": "passenger.js",
+  "scripts": {
+    "test": "node passenger.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "x"
+  },
+  "keywords": [
+    "Xpeaw",
+    "ForSpeed",
+    "Serendiask"
+  ],
+  "author": "Xpeaw",
+  "license": "MIT",
+  "dependencies": {
+    "discord-buttons": "^2.4.1",
+    "discord.js": "^12.5.3",
+    "moment": "^2.27.0"
+  }
+}

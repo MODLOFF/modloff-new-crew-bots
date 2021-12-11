@@ -1,0 +1,47 @@
+
+{
+ "Commander": "915324694876520474",
+ "Ust_Yetkili": "915324694931079203",
+ "Yetkili": "915324694876520474",
+ "Sahip": "915650268379627580",
+ "Trident": "915650268379627580",
+ "TMazaretli": "",
+ "İzinli": "",
+ "MODLOFF": "917457763028860969",
+ 
+"Ban": {
+  "Auth_Roles": "915660846439489597",
+  "GIF": "https://tenor.com/view/sex-sexing-we-should-have-sex-gif-13174290"
+},
+"Chat_Mute": {
+ "Auth_Roles": ["915324694876520472"]
+
+},
+
+"Voice_Mute": {
+ "Auth_Roles": ["915324694876520473"]
+
+},
+
+"Jail": {
+ "Auth_Roles": "915324694876520476" 
+
+},
+
+"Register": {
+ "Auth_Roles": "915324694876520474"
+},
+
+"Warn": {
+ "Auth_Roles": "915324694876520476"
+},
+
+"Transport": {
+ "Auth_Roles": "915324694876520475"
+},
+
+"Terapi": {
+ "Auth_Roles": "915324694876520474"
+}
+
+}

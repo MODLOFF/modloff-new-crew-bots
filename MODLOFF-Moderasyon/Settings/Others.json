@@ -1,0 +1,21 @@
+{
+ 
+"Colors":{
+ "positive":"228B22",
+ "negative":"FF0000",
+ "notr":"808080"
+},
+    
+"Emojis":{
+ "Off_Mic": "<:hypesquad:915640530132672583>",
+
+ "Check_Tick": "<:blobyes:915640534364725279>",
+
+ "Red_Tick": "<:blobno:915640528358494248>",
+
+ "dnd": "<:hypesquad:915640530132672583>",
+ "online": "<:hypesquad:915640530132672583>",
+ "offline": "<:hypesquad:915640530132672583>",
+ "idle": "<:hypesquad:915640530132672583>"
+}
+}
